@@ -7,3 +7,6 @@ author: Heyuan LIU
 
 
 contact: heyuan.liu@epfl.ch
+
+
+There are 3 excel files, the one with female is selected from the total file in condition with all girls.
